@@ -1,2 +1,1 @@
-# smstr4_dz8_json
-
+# hw-goit-js-08-json
